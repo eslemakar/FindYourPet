@@ -9,4 +9,4 @@ I also integrated a map using Leaflet.js, which visualizes the location where th
 Through this project, I was able to strengthen my understanding of React’s core concepts while also bringing my own app idea to life.
 # GIF
 
-![ezgif-5f6f9fa216f185](https://github.com/user-attachments/assets/ed7966bc-d388-40ae-8cc7-1ea130377884)
+![ezgif-2aa57f2a67c1c5](https://github.com/user-attachments/assets/f96be664-269d-4b9b-bf74-d1839197c60d)
