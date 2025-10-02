@@ -1,17 +1,12 @@
-# React + Vite
+# Find Your Pet 🐾
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I designed the cover and login screens in Figma, while the interface design is entirely my own.
 
-Currently, two official plugins are available:
+In this project, I created a platform where users can post and view listings for lost, found, or stolen pets. The application, built with React, allows users to add, update, delete, and list pet announcements. Each listing has a detail page with additional information such as phone number, email, and the owner’s notes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I also integrated a map using Leaflet.js, which visualizes the location where the pet was last seen or found.
 
-## React Compiler
+Through this project, I was able to strengthen my understanding of React’s core concepts while also bringing my own app idea to life.
+# GIF
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# FindYourPet
+![ezgif-50f31ac9bb222a](https://github.com/user-attachments/assets/21f8711f-e6f0-4102-9d83-38773bbfb10f)
