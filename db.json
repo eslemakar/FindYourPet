@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "id": "cf02",
+      "name": "eslem",
+      "surname": "akar",
+      "email": "akareslemelif@gmail.com",
+      "password": "eslem123"
+    }
+  ],
+  "pets": [
+    {
+      "id": "1",
+      "name": "Köpük",
+      "type": "Dog",
+      "status": "lost",
+      "description": "3 gündür kayıp, en son Antalya’da görüldü.",
+      "image": "/Milo-puppy.jpg",
+      "phone": "05051234501",
+      "email": "kopuk_owner@example.com",
+      "ownerNote": "🐶 Köpük enerjik bir köpek ve oldukça oyuncu. Kaybolduğunda mavi tasması vardı. Lütfen görürseniz sakin yaklaşın ve hemen 0505-123-4501 numarasını arayarak bize haber verin."
+    },
+    {
+      "id": "2",
+      "name": "Pamuk",
+      "type": "Cat",
+      "status": "stolen",
+      "description": "2 yaşında beyaz kedi, Kepez civarında çalındı.",
+      "image": "/ -20.jpg",
+      "phone": "05051234502",
+      "email": "pamuk_owner@example.com",
+      "ownerNote": "😺 Pamuk beyaz ve yumuşak tüylü bir kedi. Çalındığı için dikkatli olun, sakin yaklaşın ve hemen 0505-123-4502 numarasını arayarak sahibine haber verin."
+    },
+    {
+      "id": "3",
+      "name": "Maviş",
+      "type": "Bird",
+      "status": "found",
+      "description": "Sahipsiz görünüyor, Lara’da bulundu.",
+      "image": "/cute-bird.jpg",
+      "phone": "05051234503",
+      "email": "mavis_found@example.com",
+      "ownerNote": "🐦 Maviş küçük ve sevimli bir kuş. Lara’da bulundu ve sahipsiz. Lütfen görürseniz yakından rahatsız etmeyin ve sahibine ulaştırmak için 0505-123-4503 numarasını arayın."
+    },
+    {
+      "id": "4",
+      "name": "Zeytin",
+      "type": "Dog",
+      "status": "lost",
+      "description": "Siyah labrador, kaybolduğunda tasması yoktu.",
+      "image": "/karamel-dog.jpg",
+      "phone": "05051234504",
+      "email": "zeytin_owner@example.com",
+      "ownerNote": "🐕 Zeytin siyah bir labrador ve tasmasız kayboldu. Çok dost canlısı, sakince yaklaşın ve 0505-123-4504 numarasını arayarak haber verin."
+    },
+    {
+      "id": "5",
+      "name": "Lavanta",
+      "type": "Bird",
+      "status": "lost",
+      "description": "Muhabbet Kuşu. Muratpaşa’da kayboldu.",
+      "image": "/ -22.jpg",
+      "phone": "05057654321",
+      "email": "lavanta_kus@gmail.com",
+      "ownerNote": "💜 Merhaba! Bu küçük kuşun adı Lavanta ve mor tüyleri ile oldukça dikkat çekici. Genellikle kanaryalarla ve diğer kuşlarla iyi geçinir. Kaybolduğu sırada küçük bir mor ayakkabı figürlü kanat aksesuarı takıyordu. Lütfen eğer onu görürseniz sakince yaklaşın ve kaçırmamaya özen gösterin. Hemen 0505-123-4567 numarasını arayarak bize haber verin. Lavanta’nın güvenli bir şekilde geri dönmesi için yardımlarınız çok önemli. Teşekkür ederiz!"
+    },
+    {
+      "id": "6",
+      "name": "Boncuk",
+      "type": "Cat",
+      "status": "found",
+      "description": "Bahçede dolaşırken bulundu, çok uysal.",
+      "image": "/ -24.jpg",
+      "phone": "05059876543",
+      "email": "foundcats@example.com",
+      "ownerNote": "😺 Boncuk oldukça sakin bir kedi ve yeni sahiplenilmeye hazır. Bahçede dolaşırken bulundu. Görürseniz sakince yaklaşın ve sahiplenmek için iletişime geçin."
+    },
+    {
+      "id": "7",
+      "name": "Paşa",
+      "type": "Dog",
+      "status": "stolen",
+      "description": "Golden retriever, çalındığı düşünülüyor.",
+      "image": "/ -23.jpg",
+      "phone": "05053456789",
+      "email": "pasa_owner@example.com",
+      "ownerNote": "🐕 Paşa altın renkli bir Golden Retriever. Yakın zamanda evden çalındığı düşünülüyor. Lütfen görürseniz hemen sahibine haber verin ve sakin yaklaşın."
+    },
+    {
+      "id": "8",
+      "name": "Karamel",
+      "type": "Cat",
+      "status": "lost",
+      "description": "Küçük cins kedi, en son parka yakın görüldü.",
+      "image": "/ -25.jpg",
+      "phone": "05051234508",
+      "email": "karamel_owner@example.com",
+      "ownerNote": "😸 Karamel küçük ve çevik bir kedi. Park civarında kayboldu. Lütfen görürseniz yakından rahatsız etmeyin ve sahibine 0505-123-4508 numarasından haber verin."
+    },
+    {
+      "id": "9",
+      "name": "Şeker",
+      "type": "Dog",
+      "status": "found",
+      "description": "Sokakta bulundu, tasmasında telefon numarası yoktu.",
+      "image": "/Westie.jpg",
+      "phone": "05051234509",
+      "email": "foundpets@example.com",
+      "ownerNote": "🍬 Şeker çok sevimli bir köpek, sokakta yalnız bulundu.Durumu iyi. Tasmada telefon numarası yok. Sahipleri bu ilanı görürse aşağıdaki telefondan bize ulaşabilirler."
+    },
+    {
+      "id": "10",
+      "name": "Minnoş",
+      "type": "Cat",
+      "status": "lost",
+      "description": "Küçük gri kedi, Kepez civarında kayboldu.",
+      "image": "/ -26.jpg",
+      "phone": "05051234510",
+      "email": "minnos_owner@example.com",
+      "ownerNote": "😺 Minnoş gri ve çok uysal bir kedi. Kepez civarında kayboldu. Görürseniz sakince yaklaşın ve hemen 0505-123-4510 numarasını arayın."
+    },
+    {
+      "id": "11",
+      "name": "Fındık",
+      "type": "Dog",
+      "status": "found",
+      "description": "Sahilde bulundu, çok oyuncu.",
+      "image": "/Dag.jpg",
+      "phone": "05051234511",
+      "email": "findik_found@example.com",
+      "ownerNote": "🐾 Fındık sahilde bulundu. Oldukça oyuncu ve insanlarla iyi geçinir. Lütfen görürseniz sakince yaklaşın ve sahibine ulaşmaya çalışın."
+    },
+    {
+      "id": "12",
+      "name": "Cici",
+      "type": "Bird",
+      "status": "stolen",
+      "description": "Kafeste duruyordu, Kepez’den çalındı.",
+      "image": "/Lovebird sun.jpg",
+      "phone": "05051234512",
+      "email": "cici_owner@example.com",
+      "ownerNote": "🐦Türünün en nadir kuşlarından biri.Kafesiyle beraber Kepez’den çalındığı düşünülüyor. Lütfen görürseniz hemen sahibine haber verin."
+    },
+    {
+      "id": "13",
+      "name": "Tost",
+      "type": "Dog",
+      "status": "lost",
+      "description": "Kaybolduğunda üstünde kırmızı takımı vardı.",
+      "image": "https://images.ctfassets.net/sfnkq8lmu5d7/Y93uzm6SmOofkLl0fkpJz/2ef79d0dde6fc192466c96fe9c1a7bb4/The-Wildest_Editorial_Huts_and_Bay_final_collection_Squae-Hero.jpg?w=750&h=750&fl=progressive&q=70&fm=jpg",
+      "phone": "05056663231",
+      "email": "essociall@gmail.com",
+      "ownerNote": "🐶 Tost enerjik ve çok sevimli bir köpek. Kaybolduğu sırada kırmızı takımı vardı ve tasması üzerinde sahibinin telefonu yazılıydı. Lütfen bulursanız hemen arayın ve güvenli şekilde sahibine ulaştırın."
+    },
+    {
+      "id": "c9b5",
+      "name": "Mars",
+      "type": "kedi",
+      "status": "lost",
+      "city": "izmir",
+      "gender": "erkek",
+      "description": "beachpark yakınlarında kayboldu pembe tasması vardı ",
+      "image": "https://www.petara.com.tr/uploads/images/2023/12/25/scottish-fold-gri-yavru-kedi-sahiplenme-7-6588C4819C715-530_393.jpg",
+      "phone": "0505667743",
+      "email": "kedi@gmail.com",
+      "owner": "me"
+    },
+    {
+      "id": "13f1",
+      "name": "kıvırcık",
+      "type": "köpek",
+      "status": "lost",
+      "city": "izmir",
+      "gender": "erkek",
+      "description": "en son foça sahilde görüldü",
+      "image": "https://i.pinimg.com/736x/16/b7/5b/16b75be242f6d2e68f6ae72a81925ba7.jpg",
+      "phone": "0505667743",
+      "email": "kopek@gmail.com",
+      "owner": "me"
+    }
+  ]
+}
