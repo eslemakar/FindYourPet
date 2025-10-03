@@ -4,7 +4,7 @@ import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 
-// Marker simgesi fix
+
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
   iconRetinaUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png",
@@ -12,8 +12,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
 });
 
-// Polaroid Component (mühürlü)
-// Polaroid Component (mektup mührü gibi badge ile)
+
 const Polaroid = ({ src, alt, status }) => {
   const getStatusStyles = (status) => {
     switch (status?.toLowerCase()) {
@@ -36,7 +35,7 @@ const Polaroid = ({ src, alt, status }) => {
         className="w-[400px] object-cover rounded-sm border border-gray-300"
       />
 
-      {/* Sağ alt köşede mühür */}
+    
       <div
         className={`absolute bottom-4 right-4 w-27 h-27 rounded-full flex items-center justify-center 
         text-white font-extrabold text-lg 
